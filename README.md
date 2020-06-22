@@ -1,4 +1,4 @@
-Sudoku-GUI-Solver
+Sudoku-GUI-Solver - requires pygame
 
 This is a sudoku solver using the backtracking algorithm. It includes an interactive graphical GUI.
 
